@@ -1,0 +1,67 @@
+[
+    {
+        "id": 2678,
+        "created_at": "2021-01-12 10:52:35",
+        "updated_at": "2021-01-15 19:24:45",
+        "title": "The Avengers",
+        "description": "When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract, Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D., initiates a superhero recruitment effort to defeat the unprecedented threat to Earth. Joining Fury's \"dream team\" are Iron Man (Robert Downey Jr.), Captain America (Chris Evans), the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner).",
+        "year": 2012,
+        "duration": 154,
+        "genre": "Action, Adventure, Sci-Fi",
+        "rating": 8,
+        "review": "Great",
+        "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp0qlAoWcOOswIkL_qpjYzJqCCDmWXiBzCXiqbE43Obo8c0Z-s"
+    },
+    {
+        "id": 2680,
+        "created_at": "2021-01-14 12:47:57",
+        "updated_at": "2021-01-14 12:48:47",
+        "title": "Boku No Hero Academia",
+        "description": "My Hero Academia (Japanese: 僕のヒーローアカデミア, Hepburn: Boku no Hīrō Akademia) is a Japanese superhero manga series written and illustrated by Kōhei Horikoshi. It has been serialized in Weekly Shōnen Jump since July 2014, with its chapters additionally collected into 29 tankōbon volumes as of January 2021. The story follows Izuku Midoriya, a boy born without superpowers (called Quirks) in a world where they have become commonplace, but who still dreams of becoming a superhero himself. He is scouted by All Might, Japan\\\\\\'s greatest hero, who shares his Quirk with Midoriya after recognizing his potential, and later helps to enroll him in a prestigious high school for heroes in training.",
+        "year": 2020,
+        "duration": 50,
+        "genre": "Action,Adventure,Animation",
+        "rating": 9,
+        "review": "Very Good Anime",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+    {
+        "id": 2681,
+        "created_at": "2021-01-14 13:37:37",
+        "updated_at": "2021-01-14 13:37:37",
+        "title": "The Dark Knight Rises",
+        "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "year": 2012,
+        "duration": 150,
+        "genre": "Action, Adventure",
+        "rating": 8,
+        "review": null,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODZkYTdhMzQtYzMxYi00OGVjLTgzOTEtYTU5OTBjZDljZDM5XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_UY1200_CR95,0,630,1200_AL_.jpg"
+    },
+    {
+        "id": 2682,
+        "created_at": "2021-01-14 13:39:06",
+        "updated_at": "2021-01-14 13:39:48",
+        "title": "Spider-man: Homecoming",
+        "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+        "year": 2017,
+        "duration": 148,
+        "genre": "Action, Adventure, Sci-Fi",
+        "rating": 7,
+        "review": null,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/91Uz7M7OJYL._SL1500_.jpg"
+    },
+    {
+        "id": 2683,
+        "created_at": "2021-01-15 18:02:23",
+        "updated_at": "2021-01-17 13:32:24",
+        "title": "The Godfather",
+        "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+        "year": 1972,
+        "duration": 175,
+        "genre": "Drama",
+        "rating": 10,
+        "review": "Excellent",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    }
+]
